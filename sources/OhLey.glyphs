@@ -34623,9 +34623,15 @@ note = logicalnot;
 },
 {
 glyphname = f_f;
-lastChange = "2021-11-09 23:39:22 +0000";
+lastChange = "2021-11-09 23:54:15 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{296, 0}";
+}
+);
 background = {
 components = (
 {
@@ -34655,9 +34661,19 @@ rightMetricsKey = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2021-11-09 23:39:22 +0000";
+lastChange = "2021-11-09 23:54:18 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{261, 0}";
+},
+{
+name = caret_2;
+position = "{522, 0}";
+}
+);
 background = {
 components = (
 {
@@ -34695,9 +34711,19 @@ rightMetricsKey = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2021-11-09 23:39:22 +0000";
+lastChange = "2021-11-09 23:54:20 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{264, 0}";
+},
+{
+name = caret_2;
+position = "{528, 0}";
+}
+);
 background = {
 components = (
 {
@@ -34735,9 +34761,15 @@ rightMetricsKey = l;
 },
 {
 glyphname = fi;
-lastChange = "2021-11-09 23:39:22 +0000";
+lastChange = "2021-11-09 23:54:24 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{219, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -35169,9 +35201,15 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2021-11-09 23:39:22 +0000";
+lastChange = "2021-11-09 23:54:27 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{229.5, 0}";
+}
+);
 background = {
 paths = (
 {
