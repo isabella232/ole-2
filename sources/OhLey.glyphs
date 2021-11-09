@@ -128,38 +128,42 @@ alignmentZones = (
 "{510, 15}",
 "{270, 15}",
 "{0, -15}",
-"{-400, -15}"
+"{-380, -15}"
 );
 ascender = 550;
 capHeight = 510;
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 880;
 },
 {
 name = typoDescender;
-value = -372;
+value = -380;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 800;
-},
-{
-name = winDescent;
-value = 372;
-},
-{
 name = hheaAscender;
-value = 800;
+value = 880;
 },
 {
 name = hheaDescender;
-value = -372;
+value = -380;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 880;
+},
+{
+name = winDescent;
+value = 380;
 },
 {
 name = strikeoutPosition;
@@ -178,7 +182,7 @@ name = underlineThickness;
 value = 18;
 }
 );
-descender = -400;
+descender = -380;
 guideLines = (
 {
 locked = 1;
