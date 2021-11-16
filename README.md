@@ -1,6 +1,6 @@
-# Oh Ley
+# Ole
 
-Ohley has a romantic and fun flavor. Have a little fun using the ornamental glyphs to spice up any design.
+Ole (a Spanish word, pronounced "oh ley") has a romantic and fun flavor. Have a little fun using the ornamental glyphs to spice up any design.
 
 ![Sample Image](documentation/image1.png)
 
