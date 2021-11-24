@@ -13,7 +13,8 @@ DisplayStrings = (
 "Ó/Obreve/Ocaron Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek Ø/Oslashacute Õ/Otildemacron",
 "nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o.,:;/ellipsis !¡?¿nn?·/bullet *#///backslash/periodcentered.loclCAT.case/periodcentered.loclCAT (){}[]­­/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase \012/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'12+/leftanglebracket-math/rightanglebracket-math @",
 "O/Ocircumflexacute",
-"no«onono»/guilsinglleft nonon/guilsinglright"
+"no«onono»/guilsinglleft nonon/guilsinglright",
+"nn/Placeholder no/Placeholder oo\012Olé"
 );
 classes = (
 {
@@ -25123,7 +25124,7 @@ unicode = 0138;
 },
 {
 glyphname = l;
-lastChange = "2021-11-14 00:52:28 +0000";
+lastChange = "2021-11-24 23:48:23 +0000";
 layers = (
 {
 anchors = (
@@ -25285,7 +25286,7 @@ nodes = (
 );
 }
 );
-width = 200;
+width = 180;
 }
 );
 note = l;
@@ -25293,7 +25294,7 @@ unicode = 006C;
 },
 {
 glyphname = lacute;
-lastChange = "2021-11-14 00:52:28 +0000";
+lastChange = "2021-11-24 23:48:54 +0000";
 layers = (
 {
 background = {
@@ -25316,14 +25317,14 @@ transform = "{1, 0, 0, 1, 149, 248}";
 }
 );
 layerId = "A20F32D1-A37C-460A-962C-541C205D5E83";
-width = 200;
+width = 180;
 }
 );
 unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2021-11-14 00:52:34 +0000";
+lastChange = "2021-11-24 23:48:54 +0000";
 layers = (
 {
 background = {
@@ -25346,14 +25347,14 @@ transform = "{1, 0, 0, 1, 235, 248}";
 }
 );
 layerId = "A20F32D1-A37C-460A-962C-541C205D5E83";
-width = 200;
+width = 180;
 }
 );
 unicode = 013E;
 },
 {
 glyphname = lcommaaccent;
-lastChange = "2021-11-14 00:52:35 +0000";
+lastChange = "2021-11-24 23:48:54 +0000";
 layers = (
 {
 background = {
@@ -25376,7 +25377,7 @@ transform = "{1, 0, 0, 1, 47, 0}";
 }
 );
 layerId = "A20F32D1-A37C-460A-962C-541C205D5E83";
-width = 200;
+width = 180;
 }
 );
 unicode = 013C;
@@ -25413,7 +25414,7 @@ unicode = 0140;
 },
 {
 glyphname = lj;
-lastChange = "2021-11-13 00:25:10 +0000";
+lastChange = "2021-11-24 23:48:54 +0000";
 layers = (
 {
 background = {
@@ -25433,11 +25434,11 @@ name = l;
 },
 {
 name = j;
-transform = "{1, 0, 0, 1, 200, 0}";
+transform = "{1, 0, 0, 1, 180, 0}";
 }
 );
 layerId = "A20F32D1-A37C-460A-962C-541C205D5E83";
-width = 449;
+width = 429;
 }
 );
 unicode = 01C9;
@@ -35361,7 +35362,7 @@ rightMetricsKey = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2021-11-12 23:43:20 +0000";
+lastChange = "2021-11-24 23:48:54 +0000";
 layers = (
 {
 background = {
@@ -35393,7 +35394,7 @@ transform = "{1, 0, 0, 1, 592, 0}";
 }
 );
 layerId = "A20F32D1-A37C-460A-962C-541C205D5E83";
-width = 792;
+width = 772;
 }
 );
 leftMetricsKey = f;
@@ -71357,7 +71358,7 @@ a = -30;
 l = {
 f = -40;
 g = -30;
-o = -20;
+o = -10;
 };
 n = {
 questiondown = 0;
@@ -71392,5 +71393,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
