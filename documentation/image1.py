@@ -16,14 +16,14 @@ import argparse
 
 # Constants, these are the main "settings" for the image
 WIDTH, HEIGHT, MARGIN, FRAMES = 1800, 1500, 128, 1
-FONT_PATH = "../fonts/ttf/OhLey-Regular.ttf"
+FONT_PATH = "../fonts/ttf/Ole-Regular.ttf"
 FONT_LICENSE = "OFL v1.1"
 AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 24
-BIG_TEXT = "Ohley"
-BIG_TEXT_FONT_SIZE = 800
-BIG_TEXT_SIDE_MARGIN = MARGIN * 1.8
-BIG_TEXT_BOTTOM_MARGIN = MARGIN * 5
+BIG_TEXT = "Olé"
+BIG_TEXT_FONT_SIZE = 1024
+BIG_TEXT_SIDE_MARGIN = MARGIN * 2.4
+BIG_TEXT_BOTTOM_MARGIN = MARGIN * 4
 GRID_VIEW = False # Change this to "True" for a grid overlay
 
 # Handel the "--output" flag
